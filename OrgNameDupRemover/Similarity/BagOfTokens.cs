@@ -27,7 +27,7 @@ namespace OrgNameDupRemover.Similarity
 
         /// <summary>
         /// Get assigned weight for the token. If token is not found 0 is returned.
-        /// Wrights are initially set to token frequencies
+        /// Weights are initially set to token frequencies
         /// </summary>
         /// <param name="token"></param>
         /// <returns></returns>
