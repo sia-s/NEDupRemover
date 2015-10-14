@@ -8,9 +8,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("OrgNameDupRemover")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Cornerstone OnDemand, Inc.")]
-[assembly: AssemblyProduct("OrgNameDupRemover")]
-[assembly: AssemblyCopyright("Copyright © Cornerstone OnDemand, Inc. 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
