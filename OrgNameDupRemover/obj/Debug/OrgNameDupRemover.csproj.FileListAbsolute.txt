@@ -1,0 +1,14 @@
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\bin\Debug\OrgNameDupRemover.exe.config
+C:\Siamak\OrgNameDupRemover\OrgNameDupRemover\bin\Debug\OrgNameDupRemover.exe.config
+C:\Siamak\OrgNameDupRemover\OrgNameDupRemover\obj\Debug\OrgNameDupRemover.csprojResolveAssemblyReference.cache
+C:\Siamak\OrgNameDupRemover\OrgNameDupRemover\bin\Debug\OrgNameDupRemover.exe
+C:\Siamak\OrgNameDupRemover\OrgNameDupRemover\bin\Debug\OrgNameDupRemover.pdb
+C:\Siamak\OrgNameDupRemover\OrgNameDupRemover\obj\Debug\OrgNameDupRemover.exe
+C:\Siamak\OrgNameDupRemover\OrgNameDupRemover\obj\Debug\OrgNameDupRemover.pdb
+C:\Siamak\OrgNameDupRemover\OrgNameDupRemover\bin\Debug\SimMetrics.dll
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\obj\Debug\OrgNameDupRemover.exe
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\obj\Debug\OrgNameDupRemover.pdb
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\bin\Debug\OrgNameDupRemover.exe
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\bin\Debug\OrgNameDupRemover.pdb
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\bin\Debug\SimMetrics.dll
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\obj\Debug\OrgNameDupRemover.csprojResolveAssemblyReference.cache

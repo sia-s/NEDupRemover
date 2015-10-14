@@ -1,0 +1,7 @@
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\bin\Release\OrgNameDupRemover.exe.config
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\bin\Release\OrgNameDupRemover.exe
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\bin\Release\OrgNameDupRemover.pdb
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\bin\Release\SimMetrics.dll
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\obj\Release\OrgNameDupRemover.csprojResolveAssemblyReference.cache
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\obj\Release\OrgNameDupRemover.exe
+D:\Siamak\Code\VS\OrgNameDupRemover\OrgNameDupRemover\obj\Release\OrgNameDupRemover.pdb
